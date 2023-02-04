@@ -6,3 +6,4 @@ second feature123
 rebase
 disdi
 rebase 2
+new change
