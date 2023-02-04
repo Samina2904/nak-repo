@@ -7,3 +7,4 @@ rebase
 disdi
 rebase 2
 new change
+newnew change solved
